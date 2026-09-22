@@ -1,0 +1,4 @@
+.tmp_audio/
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>BBC Global News 每日中文筆記</title>
+  <link>https://REPLACE_ME.github.io/bbc-podcast-notes/index.html</link>
+  <description>自動擷取 BBC Global News Podcast 最新集數，轉錄並用 AI 整理成中文重點筆記。</description>
+  <language>zh-tw</language>
+  <lastBuildDate>Tue, 22 Sep 2026 03:57:56 +0000</lastBuildDate>
+
+</channel>
+</rss>

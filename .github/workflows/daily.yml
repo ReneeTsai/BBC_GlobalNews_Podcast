@@ -1,0 +1,55 @@
+name: 每日更新 podcast 筆記
+
+on:
+  schedule:
+    # UTC 23:00 = 台北時間早上 07:00。BBC Global News Podcast 一天會發好幾集，
+    # 這個時間點抓通常能拿到前一晚到當天清晨的最新集數。要改時間就改這個 cron。
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}  # 允許在 GitHub Actions 頁面手動按「Run workflow」測試
+
+# 讓 workflow 有權限把產生的檔案 commit 回 repo
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast-notes-pipeline
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        working-directory: scripts
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
+        run: python run_pipeline.py
+
+      - name: Commit and push generated notes
+        run: |
+          git config user.name "podcast-notes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/ data/
+          if git diff --cached --quiet; then
+            echo "沒有新內容，跳過 commit"
+          else
+            git commit -m "🎙️ 自動更新 podcast 筆記 $(date -u +'%Y-%m-%d')"
+            git push
+          fi
