@@ -2,10 +2,166 @@
 <rss version="2.0">
 <channel>
   <title>BBC Global News 每日中文筆記</title>
-  <link>https://REPLACE_ME.github.io/bbc-podcast-notes/index.html</link>
+  <link>/index.html</link>
   <description>自動擷取 BBC Global News Podcast 最新集數，轉錄並用 AI 整理成中文重點筆記。</description>
   <language>zh-tw</language>
-  <lastBuildDate>Tue, 22 Sep 2026 03:57:56 +0000</lastBuildDate>
-
+  <lastBuildDate>Tue, 22 Sep 2026 06:40:05 +0000</lastBuildDate>
+  <item>
+    <title>US media outlets take legal action after White House ban</title>
+    <link>/episodes/us-media-outlets-take-legal-action-after-white-house-ban-59044.html</link>
+    <guid isPermaLink="false">urn:bbc:podcast:p0pbtmfl</guid>
+    <pubDate>Tue, 22 Sep 2026 04:23:00 +0000</pubDate>
+    <description><![CDATA[<h1>US media outlets take legal action after White House ban</h1>
+<p>📝 <strong>這一集在說什麼</strong>
+川普政府禁止 CNN、MSNBC、Politico 三家媒體進入白宮採訪，引發美國主要電視網集體抵制白宮聯合採訪（pool coverage），這三家被禁媒體也提起法律訴訟。此外節目還報導葉門戰爭升級導致數千難民逃往吉布地、FIFA 主席試圖挽回聲望、立陶宛對俄羅斯威脅的防備，以及飛鏢新星 Luke Littler 面臨的觀眾噓聲爭議。</p>
+<p>📰 <strong>重點新聞</strong></p>
+<h3>[01:51] 美國電視網集體抵制白宮採訪</h3>
+<p>川普總統以「假新聞」為由，禁止 CNN、MSNBC、Politico 三家媒體進入白宮採訪。作為回應，美國主要電視網（包括 ABC、NBC、CBS）集體拒絕提供白宮聯合採訪畫面，連攝影記者也不提供照片。這導致川普在紐約出席聯合國大會期間沒有電視網畫面，白宮嘗試自行在 YouTube 和手機應用程式提供影像，但品質欠佳且主流媒體拒絕使用。被禁的三家媒體已提起訴訟，主張禁令違反憲法保障的新聞自由和公眾獲取獨立報導的權利。</p>
+<h3>[07:50] 川普赴聯合國大會處理多項外交議題</h3>
+<p>川普前往紐約出席聯合國大會，議程包括會見烏克蘭總統澤倫斯基（討論俄烏互相攻擊能源設施問題）、海灣國家領袖（討論荷莫茲海峽石油運輸）及英國首相 Andy Burnham。然而因與媒體的爭議，這些幕後會議的影像曝光度可能受限。去年川普在聯合國演講時因手扶梯故障受困，他將此視為聯合國功能失調的象徵。</p>
+<h3>[09:28] 葉門戰事升級，英國將支援沙烏地阿拉伯</h3>
+<p>伊朗支持的胡塞武裝（Houthis）在葉門快速推進至紅海沿岸，控制關鍵航運要道曼德海峽（Bab Al-Mandeb Strait），並對沙烏地阿拉伯首都利雅德和紅海沿岸能源設施發動攻擊。英國首相 Andy Burnham 宣布將提供「防禦性空對空加油支援」，協助沙國攔截胡塞飛彈和無人機。支援將於數日內展開，初期預計持續數週，由駐賽普勒斯的 RAF Akrotiri 基地一架 Voyager 加油機執行任務。</p>
+<h3>[11:05] 超過 3000 名葉門難民逃往吉布地</h3>
+<p>BBC 記者 Frank Gardner 在吉布地 Obok 港口的難民營報導，超過 3000 名葉門人在近日搭船橫渡紅海逃離戰火，官方準備接收最多 1 萬名難民。難民中有百歲老人 Kassim Ibrahim Absi 和妻子 Aisha，他們描述空襲聲響令人恐懼，只帶著身上衣物逃離。營區內還有近 3000 名自 2015 年戰爭爆發以來就滯留此地的葉門難民，其中一位 Muhammad Abukareem 為同胞處境感到心痛落淚。</p>
+<h3>[13:55] FIFA 主席提出改革方案挽回支持</h3>
+<p>FIFA 主席 Gianni Infantino 在致各會員協會的信中，確認不會推進先前引發爭議的世界盃私有化提案，並提出三項改革：確認不出售 FIFA 的民主程序、獨立性和體育權威；成立獨立外部審查機制檢視 FIFA 運作；以及讓各洲足協、會員協會和利益相關者直接參與 FIFA 決策過程。此舉被視為 Infantino 為明年 3 月連任鋪路，之前的私有化提案曾遭歐洲足協（UEFA）強烈批評，幾乎讓他失去職位。</p>
+<h3>[19:10] 英國首度起訴盧安達種族滅絕嫌犯</h3>
+<p>倫敦大都會警察起訴居住在北倫敦 Islington 的醫生 Vincent Brown（原名 Vincent Bajinya），他被控在 1994 年盧安達種族滅絕期間，於首都吉佳利的 Bugesera 區煽動和指揮謀殺圖西族（Tutsi）成員。這是英國首次有人因盧安達種族滅絕被起訴，該事件在 100 天內造成約 80 萬圖西族和溫和派胡圖族（Hutu）遇害。警方自 2019 年應盧安達政府要求展開調查，並持續調查其他涉嫌種族滅絕罪行。</p>
+<h3>[21:40] 立陶宛準備應對俄羅斯威脅的撤離計畫</h3>
+<p>立陶宛總理 Mindaugas Sinkevičius 在 BBC 訪問中表示，該國已準備撤離計畫以應對俄羅斯可能的軍事威脅。立陶宛與俄羅斯高度軍事化的加里寧格勒（Kaliningrad）地區接壤，上週 NATO 戰機才在其領空擊落一架無人機。當無人機入侵時，當地民眾會收到黃色或紅色警報前往避難所。撤離計畫將優先協助殘障和老年人，並規劃疏散路線避免交通堵塞。總理強調立陶宛面臨具體威脅，包括載有 10 公斤炸藥的無人機入侵。</p>
+<h3>[23:30] Paramount 與各州達成和解，合併案可望推進</h3>
+<p>媒體巨頭 Paramount Skydance 與加州為首的 12 個美國州政府及好萊塢編劇工會達成和解，解決他們阻止 Paramount 與華納兄弟探索（Warner Brothers Discovery）1100 億美元合併案的訴訟。加州總檢察長 Rob Bonta 強調和解並非支持合併，但 Paramount 同意的條件包括：前兩年至少製作 30 部電影、之後三年每年 32 部，並保證一定比例的獨立電影和大片；以及為 CBS News 和 CNN 設立獨立編輯委員會，確保新聞編採獨立性。</p>
+<h3>[25:50] 飛鏢新星 Luke Littler 因觀眾噓聲考慮退賽</h3>
+<p>19 歲的英國飛鏢世界冠軍 Luke Littler 在阿姆斯特丹世界飛鏢系列賽再次遭遇噓聲和口哨聲，嚴重到裁判必須中斷比賽要求觀眾冷靜。他表示可能不再參加荷蘭的比賽，今年稍早在德國也因類似情況退出歐洲巡迴賽。Littler 在 16 歲轉職業、17 歲贏得 PDC 世界錦標賽（史上最年輕），已贏得幾乎所有主要飛鏢獎盃。專家擔心他可能在職業生涯初期就選擇退出運動，儘管飛鏢以熱鬧氣氛和觀眾喝酒聞名，但 Littler 明顯認為自己被不公平針對。</p>
+<p>🔍 <strong>背景補充 / 值得注意的點</strong>
+- <strong>白宮聯合採訪（pool coverage）</strong> 是美國媒體的共享機制，由各家輪流派員採訪並提供畫面給所有媒體，這次集體抵制展現罕見的媒體團結。
+- <strong>曼德海峽</strong> 連接紅海與亞丁灣，是全球關鍵石油運輸航道之一，胡塞武裝若控制此處將嚴重影響國際能源供應。
+- <strong>立陶宛</strong> 是波羅的海三國之一，2004 年加入 NATO 和歐盟，近年來因地緣位置持續感受俄羅斯壓力。</p>
+<p>📖 <strong>英文學習筆記</strong>
+- <strong>boycott</strong> — 抵制、聯合拒絕（They're acting in protest by effectively boycotting their shared coverage）
+- <strong>sparked an outcry</strong> — 引發強烈抗議（sparked an international outcry earlier this year）
+- <strong>raucous</strong> — 喧鬧的、吵鬧的（Darts is known for its raucous atmosphere）
+- <strong>exclave</strong> — 飛地、外飛地（the heavily militarised westernmost exclave of Russia）
+- <strong>pave the way</strong> — 鋪路、創造條件（will now pave the way essentially for this merger to continue）
+- <strong>household name</strong> — 家喻戶曉的名字（he's bordering on being a household name）
+- <strong>editorial independence</strong> — 編輯獨立性（retain their editorial independence）
+- <strong>threshold</strong> — 門檻、最低標準（meeting certain minimum thresholds of film production）</p>]]></description>
+  </item>
+  <item>
+    <title>Typhoon hits Japan causing landslides and cancelled flights</title>
+    <link>/episodes/typhoon-hits-japan-causing-landslides-and-cancelled-flights-57707.html</link>
+    <guid isPermaLink="false">urn:bbc:podcast:p0pbs229</guid>
+    <pubDate>Mon, 21 Sep 2026 15:27:00 +0000</pubDate>
+    <description><![CDATA[<h1>Typhoon hits Japan causing landslides and cancelled flights</h1>
+<p>📝 <strong>這一集在說什麼</strong>
+這集聚焦於颱風杜鵑襲擊日本東京，導致近 200 萬人被要求疏散、數百航班取消。此外也報導了比利時主導的跨國緝毒行動逮捕近 500 人、加薩建築倒塌危機、德國極右派選舉得勢，以及希臘因搶躺椅引發致命衝突等國際新聞。</p>
+<p>📰 <strong>重點新聞</strong></p>
+<h3>[02:48] 颱風杜鵑重創東京</h3>
+<p>強烈颱風杜鵑（Typhoon Dujuan）正侵襲日本首都東京，帶來破紀錄的降雨量。當局已對 190 萬居民發布疏散警告，數百航班取消，多項大型活動（包括東京電玩展和亞洲運動會部分賽事）被迫延期。記者描述目黑川水位在兩小時內急速上升，居民擔憂河水氾濫。這是今年超級聖嬰現象（super El Niño）導致太平洋風暴更加強烈的最新案例，首相高市早苗前往紐約參加聯合國大會的班機也因此延誤。</p>
+<h3>[05:45] 跨國緝毒行動逮捕近 500 人</h3>
+<p>比利時聯邦警察主導的大規模跨大西洋反犯罪行動，在拉丁美洲為主的地區逮捕近 500 人。其中超過 370 人在哥斯大黎加被捕，行動針對一個據稱受到高層司法和安全官員保護、向歐洲運送大量毒品的犯罪網絡。巴拉圭查獲創紀錄的大麻數量，愛爾蘭則摧毀該國首座已知的古柯鹼加工實驗室。歐洲正努力遏止來自南美洲的古柯鹼流入，這些毒品不僅使犯罪集團致富，也加劇幫派暴力。</p>
+<h3>[06:37] 加薩超過 250 棟危樓將拆除</h3>
+<p>加薩官員宣布計劃疏散並拆除超過 250 棟有倒塌風險的建築物。聯合國機構 UNRWA 指出，加薩走廊超過 80% 的建築在以哈戰爭期間受損或摧毀。過去一週至少 21 人在加薩市一棟住宅大樓倒塌中喪生，當地居民早已知道該建築傾斜不安全，但因缺乏安全居所而被迫居住。加薩衛生部表示約有 3,000 棟建築被列為危險等級，許多家庭仍住在其中。拆除計劃面臨巨大挑戰，包括缺乏重型設備、燃料短缺，以及被疏散家庭無處可去。</p>
+<h3>[10:35] 葉門衝突引發吉布地難民危機</h3>
+<p>伊朗支持的胡塞組織（Houthis）與沙烏地阿拉伯之間在葉門的衝突再起，數千人冒險跨海逃往吉布地北部城鎮奧博克（Obok）。BBC 安全記者 Frank Gardner 在當地難民營報導，倉庫擠滿逃離空襲的葉門家庭，他們表示最害怕的就是炸彈，不管是誰發動的。沙烏地阿拉伯面臨艱難抉擇：若不升級軍事行動，石油運輸船無法安全通過曼德海峽（Bab el-Mandeb Strait），威脅其經濟命脈；但若擴大空襲，將加劇葉門人民苦難並引發更多難民潮。</p>
+<h3>[12:27] 德國極右派選舉大有斬獲引發警訊</h3>
+<p>德國區域選舉中，極右翼反移民政黨「德國另類選擇黨」（AfD）首次在梅克倫堡-前波美拉尼亞邦（Mecklenburg-Western Pomerania）成為得票最高政黨，將執政的基民盟（CDU）趕出區域議會。在柏林的另一場選舉中，基民盟也輸給極左派政黨。總理梅茨（Friedrich Metz）誓言維持執政聯盟，並承認基民盟需要深刻檢討。這反映歐洲各國普遍趨勢：法國、波蘭、西班牙、義大利等大國即將舉行重大選舉，民族主義勢力都表現強勁，選民對傳統中間路線政黨失望，轉向承諾「傾聽人民」的極端政黨。</p>
+<h3>[17:47] 俄羅斯國會選舉普丁政黨大勝</h3>
+<p>俄羅斯國會選舉中，總統普丁支持的「統一俄羅斯黨」（United Russia）贏得破紀錄席次，保有修憲所需的絕對多數。這是俄羅斯全面入侵烏克蘭以來首次國會選舉，只有親克里姆林宮政黨被允許參選，反對烏克蘭戰爭的政黨均被排除。選舉被形容為「既不自由也不公正」。克里姆林宮可望利用這次結果宣稱人民全力支持其政策，特別是對烏克蘭的「特別軍事行動」。</p>
+<h3>[19:53] BBC 揭露印尼伊斯蘭寄宿學校性侵掩蓋案</h3>
+<p>BBC 獨家調查揭露印尼一所著名伊斯蘭寄宿學校創辦人之子 Becky 的性侵案遭到掩蓋。他在 2022 年因性侵學生被判刑，但 BBC 拍到他在服刑不到一半後就已經是自由之身。調查還發現更多針對他的指控，以及學校試圖壓制這些指控的證據。受害者 Ira Pusbitesari 指控自 15 歲起遭到 Becky 強暴，多年來被威脅撤回指控。報導在印尼引發強烈反應，民眾和國會議員呼籲政府徹查他為何提前獲釋，並要求加強伊斯蘭寄宿學校的保護機制。</p>
+<h3>[22:49] 英國試行科技協助失智症患者居家生活</h3>
+<p>英國失智症研究所進行一項創新試驗，在 250 個家庭中安裝智慧裝置和感應器，協助失智症患者安全地在家中生活。系統包括門窗感應器、動作偵測器、床墊下的心率呼吸監測器，以及冰箱、熱水壺等家電的使用感應器，能即時監測患者的日常作息、飲食習慣，並在異常時通報照護者。整套系統每年成本約 2,000 英鎊，研究團隊表示只要能將患者送入照護機構的時間延後一個月，或減少 20% 住院天數，就能回本。英國國民保健署（NHS）正密切關注這項試驗，評估是否能減少醫院就診並讓家屬安心。</p>
+<h3>[26:58] 希臘搶躺椅糾紛釀成命案</h3>
+<p>希臘雅典附近一處海灘上，一名 82 歲男子因搶佔躺椅與另一名 70 多歲男子發生爭執並演變成肢體衝突，最終心臟病發倒地身亡。目擊者描述現場混亂，尖叫聲傳遍整個海灘。這起事件凸顯歐洲「躺椅之戰」（sunbed wars）日益嚴重的問題。市調公司 YouGov 調查發現，57% 的歐洲度假者曾因躺椅被占而無法使用，多數人認為用毛巾占位後離開是不可接受的行為。隨著赴歐旅遊人數逐年增加，這類糾紛預料只會更加惡化。</p>
+<p>🔍 <strong>背景補充 / 值得注意的點</strong></p>
+<ul>
+<li>
+<p><strong>超級聖嬰現象影響</strong>：今年太平洋地區的超級聖嬰現象使颱風和暴風雨變得更加強烈，日本這次的颱風杜鵑就是在這個背景下形成，未來類似極端天氣事件可能更頻繁。</p>
+</li>
+<li>
+<p><strong>歐洲政治版圖變遷</strong>：德國、法國等歐洲大國近期選舉都顯示選民對傳統政黨失望，轉向極右或極左政黨。這些新興政黨多半反對援助烏克蘭、主張限制移民，可能影響歐盟團結及對俄政策。</p>
+</li>
+<li>
+<p><strong>加薩重建困境</strong>：即使戰鬥減緩，加薩的基礎建設嚴重受損，80% 建築毀損，但以色列對邊境管制嚴格限制重建物資進入，聯合國和國際組織難以提供足夠協助，危樓拆除計劃執行困難重重。</p>
+</li>
+</ul>
+<p>📖 <strong>英文學習筆記</strong></p>
+<ul>
+<li>
+<p><strong>battering</strong> — 猛烈衝擊、重創（A powerful typhoon is battering the country's capital Tokyo.）</p>
+</li>
+<li>
+<p><strong>prompt</strong> — 促使、引發（prompted warnings of record-breaking rainfall）</p>
+</li>
+<li>
+<p><strong>stem the flow</strong> — 遏止流入（Europe has been battling to stem the flow of cocaine）</p>
+</li>
+<li>
+<p><strong>at risk of collapsing</strong> — 有倒塌風險（buildings because they're at risk of collapsing）</p>
+</li>
+<li>
+<p><strong>escalate</strong> — 升級、加劇（whether Saudi Arabia is going to escalate this or not）</p>
+</li>
+<li>
+<p><strong>reassert</strong> — 重新確立地位（Hamas has been trying to sort of reassert itself in Gaza）</p>
+</li>
+<li>
+<p><strong>loophole</strong> — 漏洞（that's often used as a loophole）</p>
+</li>
+<li>
+<p><strong>safeguarding</strong> — 保護措施（calling for the government to put in place safeguarding）</p>
+</li>
+<li>
+<p><strong>peace of mind</strong> — 安心、放心（it's about reassurance and peace of mind）</p>
+</li>
+<li>
+<p><strong>coveted</strong> — 令人垂涎的、人人想要的（fierce competition for those coveted spots）</p>
+</li>
+</ul>]]></description>
+  </item>
+  <item>
+    <title>Elections pile pressure on German Chancellor</title>
+    <link>/episodes/elections-pile-pressure-on-german-chancellor-32230.html</link>
+    <guid isPermaLink="false">urn:bbc:podcast:p0pbndrl</guid>
+    <pubDate>Mon, 21 Sep 2026 04:46:00 +0000</pubDate>
+    <description><![CDATA[<h1>Elections pile pressure on German Chancellor</h1>
+<p>📝 <strong>這一集在說什麼</strong>
+德國總理梅爾茲（Friedrich Merz）在兩場州選舉中遭遇重挫，極右派政黨 AFD 持續崛起。同時，海地前總統暗殺案嫌犯被引渡至美國受審，印尼伊斯蘭寄宿學校性侵案揭露校方掩蓋真相，以及川普在華盛頓特區興建凱旋門的計畫引發爭議。</p>
+<p>📰 <strong>重點新聞</strong></p>
+<h3>[01:46] 德國州選舉重挫執政黨，極右派 AFD 持續擴張</h3>
+<p>德國總理梅爾茲所屬的基督教民主聯盟（CDU）在兩場州選舉中慘敗。在梅克倫堡-西波美拉尼亞州（Mecklenburg-Western Pomerania），CDU 得票率可能跌破 5% 門檻，無法進入州議會。極右派的「德國另類選擇黨」（AFD）則在該州拿下最多選票，這是他們繼薩克森-安哈特州（Saxony-Anhalt）勝選後，第三次在州選舉中領先。梅爾茲坦承結果「災難性」，但誓言不會下台。CDU 內部開始出現要求更換總理的聲浪，但也有黨內人士力挺梅爾茲，認為他上任僅一年多，應該給予完整任期證明能力。</p>
+<h3>[07:18] 海地前總統暗殺案 18 名嫌犯引渡至美國</h3>
+<p>海地前總統若弗內爾·莫伊茲（Jovenel Moïse）於五年前在官邸遭槍殺身亡，美國當局已將 18 名涉案嫌犯從海地引渡至佛羅里達州受審。這起震驚全球的暗殺案據稱由主要為哥倫比亞籍的傭兵執行，美國檢方認為整起行動在多明尼加和邁阿密策劃。18 名被引渡者包括 17 名前哥倫比亞士兵和 1 名海地前司法部反貪腐單位員工。被告辯稱他們以為只是參與政變行動，不知道會涉及謀殺總統。莫伊茲遇刺後，海地局勢進一步惡化，目前首都太子港（Port-au-Prince）約 80% 領土由犯罪幫派控制，國內有 150 萬人流離失所，近 600 萬人面臨嚴重飢餓。</p>
+<h3>[10:46] 巴基斯坦前總理伊姆蘭·汗的姊妹被捕</h3>
+<p>巴基斯坦前總理伊姆蘭·汗（Imran Khan）的姊姊阿利瑪·卡努姆（Aleema Khanum）在計畫抗議活動前夕被捕。汗於三年前因貪腐指控入獄，支持者認為這是政治迫害。當地官員稱卡努姆在社群媒體和公開集會上動員支持者，可能製造治安問題，因此依「維持公共秩序條例」將其拘留 30 天。她的被捕與預計下週日前往首都伊斯蘭馬巴德（Islamabad）的全國性抗議活動有關，當地已開始部署貨櫃準備封鎖政府建築。巴基斯坦內政部長表示抗議會損害國家利益，政府將盡一切努力阻止。</p>
+<h3>[11:59] 川普計畫在華盛頓建凱旋門引發爭議</h3>
+<p>美國總統川普計畫在華盛頓特區興建一座高 76 公尺的凱旋門，以慶祝美國建國 250 週年。白宮新聞秘書四月宣布這項計畫時稱之為「建築傑作」。川普近日在社群媒體上透露更新版計畫，聲稱應軍方要求加入國家安全考量，表示該建築將包含「頂級軍事設施」，能容納大量無人機和狙擊手彈藥。歷史學家認為這是川普為了在法院訴訟中以「國家安全」為由加速審批程序的策略。儘管公眾意見普遍反對，但專家認為計畫最終可能獲批，只是能否在川普第二任期內完工仍是未知數。</p>
+<h3>[15:58] 黛安娜王妃弟弟指媒體對待哈利梅根如當年對姊姊</h3>
+<p>黛安娜王妃（Princess Diana）的弟弟查爾斯·斯賓塞（Charles Spencer）接受 BBC 訪問時表示，媒體對待哈利王子（Prince Harry）和妻子梅根（Meghan）的方式，讓他想起當年姊姊生前遭受的對待。他在即將出版的新書中指稱黛安娜過世後，當時的查爾斯王子（現國王查爾斯三世）表現得「像中樂透般興高采烈」，並說她很快就會被遺忘。白金漢宮強烈否認這些說法。斯賓塞強調黛安娜對批評非常敏感，常因媒體攻擊而「絕望落淚」，他擔心哈利和梅根也面臨同樣的「癌症般影響」。他形容這本書是他在此議題上的「最後發言」，書籍將於週二出版。</p>
+<h3>[18:31] 印尼伊斯蘭寄宿學校性侵案揭露長年掩蓋真相</h3>
+<p>BBC 調查揭露印尼一所知名伊斯蘭寄宿學校（pesantren）創辦人之子「布奇」（Butchi）涉及多起性侵案，校方長年掩蓋真相。布奇 2022 年因性侵一名學生被判七年徒刑，但 BBC 發現他已提前獲釋，服刑不到一半。前學生艾拉普（Erap Betisari）首度公開指控，她從 15 歲起遭布奇多年性侵。2018 年報警後，她和家人遭學校人員監視威脅，被迫在布奇母親要求下撤回指控。BBC 臥底記者發現布奇已秘密出獄，在家中接受支持者朝拜。印尼矯正部門表示他因法定減刑而提前假釋。印尼全國反暴力婦女委員會表示，伊斯蘭寄宿學校的性侵問題已達「緊急程度」。</p>
+<h3>[22:57] 巴塞隆納數千人抗議機場擴建計畫</h3>
+<p>數千名巴塞隆納居民週日上街抗議機場擴建計畫，擔心遊客人數增加和航班對環境的衝擊。巴塞隆納是全球過度旅遊（over-tourism）的重災區之一，據統計遊客數量是當地居民的 10 倍。機場所在地市長阿爾巴·博約達（Alba Boryorda）表示，1999 年機場興建第三跑道時政府承諾的補償從未兌現，自然區域的空氣和水質持續惡化。她反對擴建第三跑道，認為這會完全摧毀 Aldelta Ljurad 自然區。政府聲稱擴建不會增加航班數量，但博約達認為這不符邏輯，更多航班意味著更多觀光客，加劇當地住房問題。她主張巴塞隆納需要發展現代化經濟，而非僅依賴服務業低薪工作。</p>
+<h3>[26:16] 歐洲電車駕駛錦標賽在華沙舉行，布拉格奪冠</h3>
+<p>歐洲電車駕駛錦標賽在波蘭華沙舉行，26 支隊伍參加各項挑戰賽，包括用電車擊倒巨型保齡球瓶、在車輛行駛時將水碗固定在前端測試平穩度，以及邊開車邊投籃等項目。今年共有 25 個歐洲城市參賽，加上擁有全球最大電車網路的澳洲墨爾本市（儘管墨爾本成績倒數第二，僅贏過倫敦）。最終由捷克首都布拉格的新秀隊伍奪冠，兩位駕駛表示原本只希望進前十名，沒想到能獲勝。這項賽事自 2012 年開始舉辦，隨著城市尋求更清潔永續的交通方式，電車正在全球各地重新流行。</p>
+<p>🔍 <strong>背景補充 / 值得注意的點</strong>
+- 德國 AFD 的崛起反映歐洲右翼民粹主義趨勢，其反移民立場在多個州獲得支持，但其他主流政黨拒絕與其合作執政
+- 海地自 2021 年總統遇刺後陷入更深層混亂，幫派暴力、人道危機和政治真空至今未解
+- 印尼的伊斯蘭寄宿學校（pesantren）在社會中具有重要地位，但性侵問題長期被忽視，受害者常面臨巨大社會壓力而不敢發聲</p>
+<p>📖 <strong>英文學習筆記</strong>
+- <strong>embattled</strong> — 四面楚歌的、處境艱難的（Germany's embattled Chancellor Friedrich Merz is fighting for his political survival.）
+- <strong>threshold</strong> — 門檻、臨界點（the CDU may have to below the threshold needed to stay in Parliament.）
+- <strong>steamroll</strong> — 強行推進、碾壓式通過（he's just trying to steamroll it through.）
+- <strong>buttress</strong> — 支撐、加強（as a way to buttress his claim in the courts.）
+- <strong>extradite</strong> — 引渡（18 people have been extradited from Haiti to Florida.）
+- <strong>mercenary</strong> — 傭兵（allegedly by a group of mainly Colombian mercenaries.）
+- <strong>beleaguered</strong> — 困境重重的、飽受困擾的（on the beleaguered Caribbean nation.）
+- <strong>mastermind</strong> — 策劃、主謀（the murder was basically masterminded in the Dominican Republic and in Miami.）
+- <strong>triumphal arch</strong> — 凱旋門（plans for the United States Triumphal Arc.）
+- <strong>swansong</strong> — 絕唱、最後作品（he's described this as his swan song.）
+- <strong>dexterity</strong> — 靈巧度、技巧（a measure of driver dexterity.）
+- <strong>cornerstone</strong> — 基石、重要基礎（Tram lines were a cornerstone of public transport.）</p>]]></description>
+  </item>
 </channel>
 </rss>
