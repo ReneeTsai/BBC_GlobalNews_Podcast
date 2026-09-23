@@ -77,3 +77,39 @@ def transcribe_episode(audio_url: str) -> dict:
         return transcribe_audio(audio_path)
     finally:
         audio_path.unlink(missing_ok=True)
+
+
+def _fmt_ts(seconds: float) -> str:
+    seconds = int(seconds)
+    h, rem = divmod(seconds, 3600)
+    m, s = divmod(rem, 60)
+    if h:
+        return f"{h:02d}:{m:02d}:{s:02d}"
+    return f"{m:02d}:{s:02d}"
+
+
+def build_transcript_markdown(segments: list[dict], chunk_seconds: float = 30.0) -> str:
+    """
+    把帶時間戳的逐字稿片段，整理成原始英文全文的 Markdown 區塊（每隔約 chunk_seconds
+    秒插入一個時間戳記，把中間的片段接成一段，避免每個 whisper 小片段各自一行、
+    讀起來太破碎）。這段內容不經過 AI 改寫，是 faster-whisper 辨識出來的原文。
+    """
+    if not segments:
+        return ""
+
+    lines = ["## 📜 英文逐字稿全文（English Transcript）", ""]
+    chunk_start = segments[0]["start"]
+    chunk_texts: list[str] = []
+
+    for seg in segments:
+        if chunk_texts and (seg["start"] - chunk_start) >= chunk_seconds:
+            lines.append(f"**[{_fmt_ts(chunk_start)}]** " + " ".join(chunk_texts))
+            lines.append("")
+            chunk_start = seg["start"]
+            chunk_texts = []
+        chunk_texts.append(seg["text"])
+
+    if chunk_texts:
+        lines.append(f"**[{_fmt_ts(chunk_start)}]** " + " ".join(chunk_texts))
+
+    return "\n".join(lines)

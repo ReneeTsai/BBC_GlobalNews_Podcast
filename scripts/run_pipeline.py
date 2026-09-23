@@ -35,12 +35,15 @@ def process_episode(ep: dict) -> bool:
     note_markdown = sm.summarize_episode(ep["title"], ep["published"], transcript)
     print("  摘要完成")
 
+    transcript_markdown = tr.build_transcript_markdown(transcript["segments"])
+    full_markdown = note_markdown + "\n\n---\n\n" + transcript_markdown
+
     bf.build_all(
         new_item={
             "guid": ep["guid"],
             "title": ep["title"],
             "published": ep["published"],
-            "note_markdown": note_markdown,
+            "note_markdown": full_markdown,
             "source_link": ep["audio_url"],
         }
     )
