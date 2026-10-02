@@ -26,7 +26,7 @@ OUTPUT_FEED_LANGUAGE = "zh-tw"
 OUTPUT_FEED_AUTHOR = "Rachel"
 
 # feed.xml 最多保留幾則最新集數（避免 feed 檔案無限增長）
-MAX_ITEMS_IN_FEED = int(os.environ.get("MAX_ITEMS_IN_FEED", "60"))
+MAX_ITEMS_IN_FEED = int(os.environ.get("MAX_ITEMS_IN_FEED", "20"))
 
 # ------------------------------------------------------------------
 # 轉錄 (speech-to-text) 設定
